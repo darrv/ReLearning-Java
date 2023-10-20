@@ -1,3 +1,5 @@
+/* Accepting User Input by "Bro Code" from youtube */
+
 import java.util.Scanner; // scanner class
 
 public class AcceptUserInput {
