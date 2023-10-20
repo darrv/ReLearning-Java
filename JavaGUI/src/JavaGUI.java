@@ -1,3 +1,5 @@
+/* Simple Java GUI by "Bro Code" from youtube */
+
 import javax.swing.JOptionPane; // import class
 
 public class JavaGUI {
