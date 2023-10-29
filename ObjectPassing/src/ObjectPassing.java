@@ -4,12 +4,13 @@ public class ObjectPassing {
 	
 public static void main(String[] args) {
 	
-	Garage garage = new Garage();
-	Car car1 = new Car("Toyota");
-	Car car2 = new Car("Hyundai");
+	Garage garage = new Garage(); // object garage 
 	
-	garage.park(car1);
-	garage.park(car2);
+	Car car1 = new Car("Toyota");  // object car1
+	Car car2 = new Car("Hyundai"); // object car2
+	
+	garage.park(car1); // object garage using method park, and passing object car1
+	garage.park(car2); // object garage using method park, and passing object car2
 
 	}
 }
